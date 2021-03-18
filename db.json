@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Ommi",
+      "password": "Abc123",
+      "email": "ommi@gmail.com",
+      "role": "users",
+      "cart": []
+    },
+    {
+      "username": "Omi",
+      "password": "Abc1234",
+      "role": "users",
+      "email": "omi@gmail.com",
+      "id": 6,
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "nama": "Addidas",
+      "foto": "https://i.ibb.co/vDtdgcZ/square-2.jpg",
+      "harga": "2000000",
+      "caption": "Keren kali",
+      "categoryId": "1",
+      "id": 2
+    },
+    {
+      "nama": "Nike",
+      "foto": "https://i.ibb.co/4PY25Y5/square-13.jpg",
+      "harga": "600000",
+      "caption": "Cocok untuk olahraga",
+      "categoryId": 3,
+      "id": 10
+    },
+    {
+      "nama": "Vans B120",
+      "foto": "https://i.ibb.co/b3Q9qTP/square-6.jpg",
+      "harga": "250000",
+      "caption": "Ringan dan kuat",
+      "categoryId": 2,
+      "id": 4,
+      "stok": 1
+    },
+    {
+      "nama": "Addidas 01AP",
+      "foto": "https://i.ibb.co/KwRB0Lf/square-7.jpg",
+      "harga": "700000",
+      "caption": "cocok untuk anak muda",
+      "categoryId": "2",
+      "id": 5
+    },
+    {
+      "nama": "Addidas chuky",
+      "foto": "https://i.ibb.co/Dr4bjy9/square-10.jpg",
+      "harga": "7000000",
+      "caption": "Wow",
+      "categoryId": "1",
+      "id": 6
+    },
+    {
+      "nama": "Nike indian",
+      "foto": "https://i.ibb.co/YbtRyww/square-17.jpg",
+      "harga": "3000000",
+      "caption": "Sepatu basket",
+      "categoryId": "1",
+      "id": 7
+    },
+    {
+      "nama": "Converese",
+      "foto": "https://i.ibb.co/M2fP472/square-16.jpg",
+      "harga": "130000",
+      "caption": "Sepatunya anak muda",
+      "categoryId": "1",
+      "id": 8
+    },
+    {
+      "nama": "Compass",
+      "foto": "https://i.ibb.co/K0HpDtK/square-3.jpg",
+      "harga": "23000",
+      "caption": "Bangga produk bangsa",
+      "categoryId": "3",
+      "id": 9,
+      "stok": 10
+    },
+    {
+      "nama": "Vans high",
+      "foto": "https://i.ibb.co/Dbwkm2p/square-14.jpg",
+      "harga": "17500",
+      "caption": "Sepatu keren",
+      "categoryId": "2",
+      "id": 10,
+      "stok": 10
+    },
+    {
+      "nama": "Compass high 68",
+      "foto": "https://i.ibb.co/CQsjP72/square-5.jpg",
+      "harga": "38250",
+      "caption": "enaknya",
+      "categoryId": "2",
+      "id": 11,
+      "stok": 10
+    },
+    {
+      "nama": "nama-1",
+      "foto": "https://i.ibb.co/dtwhYGf/square-12.jpg",
+      "harga": "12000",
+      "caption": "Renyah",
+      "categoryId": "3",
+      "id": 12,
+      "stok": 10
+    },
+    {
+      "nama": "nama-1",
+      "foto": "https://i.ibb.co/N7yKN0F/square-9.jpg",
+      "harga": "45000",
+      "caption": "Halal, soju korea",
+      "categoryId": "1",
+      "id": 13,
+      "stok": 10
+    },
+    {
+      "nama": "nama-1",
+      "foto": "https://i.ibb.co/j8479L6/square-8.jpg",
+      "harga": "12000",
+      "caption": "enak",
+      "categoryId": "3",
+      "id": 14,
+      "stok": 10
+    },
+    {
+      "nama": "nama-1",
+      "foto": "https://i.ibb.co/zGFHSkj/square-15.jpg",
+      "harga": "12000",
+      "caption": "enak",
+      "categoryId": "3",
+      "id": 14,
+      "stok": 10
+    },
+    {
+      "nama": "nama-1",
+      "foto": "https://instagram.fcgk18-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/119737272_819312488821228_2050119416195345234_n.jpg?tp=1&_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=qxU5EHFeckoAX-tLMa3&oh=31ac49f65b503d637ceecd5d7c9e3daa&oe=6072543B",
+      "harga": "12000",
+      "caption": "enak",
+      "categoryId": "3",
+      "id": 14,
+      "stok": 10
+    },
+    {
+      "nama": "nama-1",
+      "foto": "https://instagram.fcgk18-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/144374075_148348947098097_8720673033912818251_n.jpg?tp=1&_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=g9q3D4UplM0AX9dWzkp&oh=07cb545fe83cf05f312380d1477bc52f&oe=60718BDA",
+      "harga": "12000",
+      "caption": "enak",
+      "categoryId": "3",
+      "id": 14,
+      "stok": 10
+    },
+    {
+      "nama": "nama-1",
+      "foto": "https://instagram.fcgk18-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/143348059_336392854200807_7529291796286147767_n.jpg?tp=1&_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=j65KIiv5EkwAX84Ngar&oh=1525d6d77d6714ca8f3bb0d6555cfcfb&oe=60743A19",
+      "harga": "12000",
+      "caption": "enak",
+      "categoryId": "3",
+      "id": 14,
+      "stok": 10
+    }
+  ],
+  "transaksi": [],
+  "banks": [
+    {
+      "id": 1,
+      "nama": "BRI",
+      "norek": "088 221 594"
+    },
+    {
+      "id": 2,
+      "nama": "BNI",
+      "norek": "821 58 1231 2"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Sports"
+    },
+    {
+      "id": 2,
+      "nama": "Skate"
+    },
+    {
+      "id": 3,
+      "nama": "Bmx"
+    }
+  ]
+}
