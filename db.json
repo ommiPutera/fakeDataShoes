@@ -17,166 +17,62 @@
       "cart": []
     }
   ],
-  "products": [
-    {
-      "nama": "Addidas",
-      "foto": "https://i.ibb.co/vDtdgcZ/square-2.jpg",
-      "harga": "2000000",
-      "caption": "Keren kali",
-      "categoryId": "1",
-      "id": 2
-    },
-    {
-      "nama": "Nike",
-      "foto": "https://i.ibb.co/4PY25Y5/square-13.jpg",
-      "harga": "600000",
-      "caption": "Cocok untuk olahraga",
-      "categoryId": 3,
-      "id": 10
-    },
-    {
-      "nama": "Vans B120",
-      "foto": "https://i.ibb.co/b3Q9qTP/square-6.jpg",
-      "harga": "250000",
-      "caption": "Ringan dan kuat",
-      "categoryId": 2,
-      "id": 4,
-      "stok": 1
-    },
-    {
-      "nama": "Addidas 01AP",
-      "foto": "https://i.ibb.co/KwRB0Lf/square-7.jpg",
-      "harga": "700000",
-      "caption": "cocok untuk anak muda",
-      "categoryId": "2",
-      "id": 5
-    },
-    {
-      "nama": "Addidas chuky",
-      "foto": "https://i.ibb.co/Dr4bjy9/square-10.jpg",
-      "harga": "7000000",
-      "caption": "Wow",
-      "categoryId": "1",
-      "id": 6
-    },
-    {
-      "nama": "Nike indian",
-      "foto": "https://i.ibb.co/YbtRyww/square-17.jpg",
-      "harga": "3000000",
-      "caption": "Sepatu basket",
-      "categoryId": "1",
-      "id": 7
-    },
-    {
-      "nama": "Converese",
-      "foto": "https://i.ibb.co/M2fP472/square-16.jpg",
-      "harga": "130000",
-      "caption": "Sepatunya anak muda",
-      "categoryId": "1",
-      "id": 8
-    },
-    {
-      "nama": "Compass",
-      "foto": "https://i.ibb.co/K0HpDtK/square-3.jpg",
-      "harga": "23000",
-      "caption": "Bangga produk bangsa",
-      "categoryId": "3",
-      "id": 9,
-      "stok": 10
-    },
-    {
-      "nama": "Vans high",
-      "foto": "https://i.ibb.co/Dbwkm2p/square-14.jpg",
-      "harga": "17500",
-      "caption": "Sepatu keren",
-      "categoryId": "2",
-      "id": 10,
-      "stok": 10
-    },
-    {
-      "nama": "Compass high 68",
-      "foto": "https://i.ibb.co/CQsjP72/square-5.jpg",
-      "harga": "38250",
-      "caption": "enaknya",
-      "categoryId": "2",
-      "id": 11,
-      "stok": 10
-    },
-    {
-      "nama": "nama-1",
-      "foto": "https://i.ibb.co/dtwhYGf/square-12.jpg",
-      "harga": "12000",
-      "caption": "Renyah",
-      "categoryId": "3",
-      "id": 12,
-      "stok": 10
-    },
-    {
-      "nama": "nama-1",
-      "foto": "https://i.ibb.co/N7yKN0F/square-9.jpg",
-      "harga": "45000",
-      "caption": "Halal, soju korea",
-      "categoryId": "1",
-      "id": 13,
-      "stok": 10
-    },
-    {
-      "nama": "nama-1",
-      "foto": "https://i.ibb.co/j8479L6/square-8.jpg",
-      "harga": "12000",
-      "caption": "enak",
-      "categoryId": "3",
-      "id": 14,
-      "stok": 10
-    },
-    {
-      "nama": "nama-1",
-      "foto": "https://i.ibb.co/zGFHSkj/square-15.jpg",
-      "harga": "12000",
-      "caption": "enak",
-      "categoryId": "3",
-      "id": 15,
-      "stok": 10
-    },
-    {
-      "nama": "nama-1",
-      "foto": "https://instagram.fcgk18-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/119737272_819312488821228_2050119416195345234_n.jpg?tp=1&_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=qxU5EHFeckoAX-tLMa3&oh=31ac49f65b503d637ceecd5d7c9e3daa&oe=6072543B",
-      "harga": "12000",
-      "caption": "enak",
-      "categoryId": "3",
-      "id": 16,
-      "stok": 10
-    },
-    {
-      "nama": "nama-1",
-      "foto": "https://instagram.fcgk18-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/144374075_148348947098097_8720673033912818251_n.jpg?tp=1&_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=g9q3D4UplM0AX9dWzkp&oh=07cb545fe83cf05f312380d1477bc52f&oe=60718BDA",
-      "harga": "12000",
-      "caption": "enak",
-      "categoryId": "3",
-      "id": 17,
-      "stok": 10
-    },
-    {
-      "nama": "nama-1",
-      "foto": "https://instagram.fcgk18-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/143348059_336392854200807_7529291796286147767_n.jpg?tp=1&_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=j65KIiv5EkwAX84Ngar&oh=1525d6d77d6714ca8f3bb0d6555cfcfb&oe=60743A19",
-      "harga": "12000",
-      "caption": "enak",
-      "categoryId": "3",
-      "id": 18,
-      "stok": 10
-    }
-  ],
-  "transaksi": [],
-  "banks": [
+  "news": [
     {
       "id": 1,
-      "nama": "BRI",
-      "norek": "088 221 594"
+      "title": "Trump Tested for Coronavirus, U.S. Death Toll Hits 50",
+      "img": "https://images.wsj.net/im-163311?width=1280&size=1",
+      "time": "March 24, 2021, at 5:09 p.m.",
+      "media": "U.S. News",
+      "description": "THE U.S. CORONAVIRUS death toll climbed to 50 on Saturday as President Donald Trump confirmed he was broadening America's virus-related travel restrictions with Europe and that he himself had been tested for COVID-19. During a wide-ranging news conference on Saturday afternoon, Trump confirmed he was adding the U.K. and Ireland to a list of travel-restricted countries that spans China, Iran and much of Europe. White House officials have suggested the travel restrictions will minimize coronavirus spread in the U.S. 'If you don't have to travel, I wouldn't do it,' Trump said, also acknowledging that conversations are ongoing about possibly restricting domestic travel within the U.S.",
     },
     {
       "id": 2,
-      "nama": "BNI",
-      "norek": "821 58 1231 2"
+      "title": "New COVID-19 cases down in California",
+      "img": "https://www.gannett-cdn.com/-mm-/eb34b9888702cb3f4641b6ee49362a859a5dfd45/c=0-0-2309-1299/local/-/media/2021/03/05/USATODAY/usatsports/MotleyFool-TMOT-2a75ed0d-coronavirus-dna.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp",
+      "time": "March 14, 2021, at 9:19 p.m.",
+      "media": "U.S. TODAY",
+      "description": "The Golden State reported far fewer coronavirus cases in the week ending Sunday, adding 17,640 new cases. That's down 25.9% from the previous week's toll of 23,813 new cases.",
+    },
+    {
+      "id": 3,
+      "title": "AstraZeneca results may have included outdated info",
+      "img": "https://www.gannett-cdn.com/presto/2021/03/23/USAT/2accee95-74ab-4fd6-a92e-263c1a8a1a76-AP_Virus_Outbreak_Germany_Vaccines.jpg?width=660&height=440&fit=crop&format=pjpg&auto=webp",
+      "time": "March 23, 2021, at 3:42 a.m.",
+      "media": "U.S. TODAY",
+      "description": "Hours after COVID-19 vaccine collaborators AstraZeneca and Oxford University released data on their large clinical trial, federal officials said that information may have been missing a month's worth of data.",
+    },
+    {
+      "id": 4,
+      "title": "Decade of The Woman",
+      "img": "https://www.gannett-cdn.com/presto/2021/03/22/USAT/018e2e64-55dd-42a7-ad97-1a71d17f6a36-JemeleChapterHead.png?width=1488",
+      "time": "March 23, 2021, at 12:2 p.m.",
+      "media": "U.S. TODAY",
+      "description": "Lynn is an agent and attorney and in 2019 she became only the third woman, and the first Black woman, to represent a top-three NFL draft pick when University of Alabama defensive lineman Quinnen Williams was picked third by the New York Jets. Lynn represents NFL players, football coaches, professional softball players, broadcasters and entertainers.",
+    },
+    {
+      "id": 5,
+      "title": "Bobby Brown Jr. death caused alcohol, cocaine and fentanyl",
+      "img": "https://www.gannett-cdn.com/presto/2020/11/19/USAT/ecbe0aab-ee7f-4ac0-b54b-b95a0438ecca-GettyImages-1025341498A.JPG?width=660&height=440&fit=crop&format=pjpg&auto=webp",
+      "time": "March 23, 2021, at 10:20 a.m.",
+      "media": "U.S. TODAY",
+      "description": "Bobby Brown Jr., the son of singer Bobby Brown, died from the combined effects of alcohol, cocaine and the powerful opioid fentanyl, an autopsy report released Monday said. ",
+    },
+    {
+      "id": 6,
+      "title": "Florida State baseball returns to USA Today",
+      "img": "https://www.gannett-cdn.com/presto/2021/03/06/PTAL/6468cad0-b49d-480e-a398-b47cdcaadf16-Messick_2_1.JPG?crop=2047,1152,x0,y0&width=660&height=372&format=pjpg&auto=webp",
+      "time": "March 23, 2021, at 2:41 p.m.",
+      "media": "U.S. TODAY",
+      "description": "This week, the Seminoles check-in at No. 21 after a perfect week against No. 5 Florida and a three-game sweep at then-No. 6 Miami. FSU is now 10-6 on the season and 7-5 in ACC play. ",
+    },
+    {
+      "id": 7,
+      "title": "Maryland at Alabama NCAA Tournament",
+      "img": "https://sportsbookwire.usatoday.com/wp-content/uploads/sites/16/2021/02/USATSI_15486348.jpg?w=1000&h=600&crop=1",
+      "time": "March 24, 2021, at 2:45 p.m.",
+      "media": "U.S. TODAY",
+      "description": "The No. 2 seed Alabama Crimson Tide (24-6) will compete with the No. 10 seed Maryland Terrapins (16-13) on Monday with a spot in the Sweet 16 of the NCAA Tournament up for grabs. Alabama is a 6-point favorite to take a step forward in the bracket, which begins at 8:45 PM ET on TNT.",
     }
   ],
   "categories": [
@@ -186,11 +82,15 @@
     },
     {
       "id": 2,
-      "nama": "Skate"
+      "nama": "Bussines"
     },
     {
       "id": 3,
-      "nama": "Bmx"
+      "nama": "Covid-19"
+    },
+    {
+      "id": 3,
+      "nama": "Stock"
     }
   ]
 }
